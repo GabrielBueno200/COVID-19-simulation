@@ -1,2 +1,2 @@
-"# projetoC" 
-"# devAlgoC" 
+"# projetoJava" 
+"# COVID" 
