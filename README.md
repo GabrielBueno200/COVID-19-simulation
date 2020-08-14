@@ -10,5 +10,5 @@ O usuário escolhe entre duas opções:
 ![print1](https://user-images.githubusercontent.com/56837996/90295131-85b8e300-de5e-11ea-8c65-c91e2b77a9fd.png)
 
 # Funcionamento
-Segue vídeo com a execução do projeto
+Segue vídeo com a execução do projeto:
 https://www.youtube.com/watch?v=dgbomHTLQZ4&feature=youtu.be
