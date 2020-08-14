@@ -18,3 +18,6 @@ O usuário escolhe entre duas opções:
 
 Segue vídeo com a execução do projeto:
 https://www.youtube.com/watch?v=dgbomHTLQZ4&feature=youtu.be
+
+
+**Este projeto foi um dos métodos avaliativos da disciplina de Orientação a Objetos**
