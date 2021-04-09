@@ -17,5 +17,6 @@ The user can choose two options:
 - In case of overlapping between sick and health person, the last gets sick.
 
 The simulation works as shown in the image below
+
 ![image](https://user-images.githubusercontent.com/56837996/114195181-9e629580-9926-11eb-902e-be0f01763652.png)
 
