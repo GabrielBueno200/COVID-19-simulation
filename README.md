@@ -1,7 +1,7 @@
 # Purpose
 The project does a simulation about the virus spread in different situations, WITH/WITHOUT the lockdown practice.
 
-# Execucution
+# Execution
 That's not required any extra dependency, you just have to start the program via IDE or command line
 
 
